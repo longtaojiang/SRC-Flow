@@ -7,11 +7,7 @@
 [![Code](https://img.shields.io/badge/Code-coming%20soon-lightgrey)](#)
 [![Model](https://img.shields.io/badge/Models-coming%20soon-lightgrey)](#)
 
-This repository contains the official project page and release information for **SRC-Flow**, a normalizing-flow framework for image generation in compact semantic representation spaces.
-
-The paper is currently under review.  
-Code and pretrained models are **not released at this stage** and will be made available after the review process.
-
+This repository contains the official codes, models and release information for **SRC-Flow**, a normalizing-flow framework for image generation in compact semantic representation spaces.
 
 ## News
 

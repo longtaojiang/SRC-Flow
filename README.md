@@ -12,7 +12,6 @@ This repository contains the official project page and release information for *
 The paper is currently under review.  
 Code and pretrained models are **not released at this stage** and will be made available after the review process.
 
----
 
 ## News
 
@@ -21,7 +20,6 @@ Code and pretrained models are **not released at this stage** and will be made a
 - **[Coming Soon]** Pretrained checkpoints.
 - **[Coming Soon]** Inference and evaluation scripts.
 
----
 
 ## Overview
 
@@ -32,7 +30,7 @@ We identify a key obstacle: normalizing flows must learn a **single fixed invert
 **SRC-Flow** addresses this issue by introducing a **Semantic Representation Compressor (SRC)**, which compresses high-dimensional RAE features into a compact semantic space before flow modeling. The normalizing flow is then trained in this compact space, reducing the modeling burden while preserving decoder-compatible semantic information.
 
 <p align="center">
-  <img src="assets/teaser.png" width="90%">
+  <img src="teaser.png" width="90%">
 </p>
 
 ---

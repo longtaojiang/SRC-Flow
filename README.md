@@ -15,7 +15,7 @@ Code and pretrained models are **not released at this stage** and will be made a
 
 ## News
 
-- **[2026-05-18]** Paper released on arXiv.
+- **[2026-05-18]** Paper released on [arXiv]().
 - **[Coming Soon]** Code release.
 - **[Coming Soon]** Pretrained checkpoints.
 - **[Coming Soon]** Inference and evaluation scripts.

@@ -3,7 +3,7 @@
 > **SRC-Flow: Compact Semantic Representations Enable Normalizing Flows for Image Generation**  
 > Longtao Jiang, Jiangmin Bao, Zhendong Wang, Xin Tao, Pengfei Wan, Zhihui Li, Xiaojun Chang
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](https://arxiv.org/abs/2605.18267)
 [![Code](https://img.shields.io/badge/Code-coming%20soon-lightgrey)](#)
 [![Model](https://img.shields.io/badge/Models-coming%20soon-lightgrey)](#)
 
@@ -11,7 +11,7 @@ This repository contains the official codes, models and release information for 
 
 ## News
 
-- **[2026-05-18]** Paper released on [arXiv]().
+- **[2026-05-18]** Paper released on [arXiv](https://arxiv.org/abs/2605.18267).
 - **[Coming Soon]** Code release.
 - **[Coming Soon]** Pretrained checkpoints.
 - **[Coming Soon]** Inference and evaluation scripts.
